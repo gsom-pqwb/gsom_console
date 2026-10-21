@@ -329,3 +329,7 @@ available as a descendant of `Control` node.
 - [x] Open the `user://` folder.
 - [x] Switch to any scene or to the main one.
 - [x] Clear console from code or command.
+
+## Contribution language
+
+Use English for all project-authored repository content and official communication, including source code, identifiers, comments, documentation, examples, configuration text, file and directory names, commit messages, issues, pull request titles and descriptions, reviews, and release notes.
